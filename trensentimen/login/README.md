@@ -2,7 +2,7 @@
 
 | Objek Pengujian | Hasil      | Lampiran                                                      |
 | --------------- | ---------- | ------------------------------------------------------------- |
-| Login Sentimen | Berhasil ✅ | [dokumentasi](<./Laporan_Testing_login.pdf>) |
+| Login Sentimen | Berhasil ✅ | [dokumentasi](<./Laporan_Testing_Login.pdf>) |
 
 # Panduan Penggunaan
 
